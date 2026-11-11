@@ -1,0 +1,10 @@
+{
+  "name": "com.paperfly.newlocation",
+  "version": "0.1.0",
+  "displayName": "PaperFly New Location",
+  "description": "Локация PaperFly. Замените имя, displayName и описание при создании репозитория из шаблона.",
+  "unity": "6000.0",
+  "keywords": [
+    "paperfly-location"
+  ]
+}
