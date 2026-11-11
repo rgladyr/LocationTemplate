@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.paperfly.renderkit": "https://github.com/rgladyr/Render-Kit.git#36cd370e44f04fddbbf15845976c8bd97e6bcfba",
+    "com.paperfly.renderkit": "https://github.com/rgladyr/Render-Kit.git",
     "com.unity.ide.rider": "3.0.31",
     "com.unity.ide.visualstudio": "2.0.22",
     "com.unity.render-pipelines.universal": "17.0.3",
