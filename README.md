@@ -5,16 +5,16 @@
 
 ## Подключение в игру
 
-Строка для `Packages/manifest.json` игры — скопируйте её целиком. Версию потом выберите
-в окне **PaperFly → Приём → Версии локаций**.
+Адрес пакета локации — скопируйте его целиком и вставьте в игре в **Window → Package Manager → + →
+Add package from git URL**. Версию потом выберите в окне **PaperFly → Приём → Версии локаций**.
 
 <!-- paperfly:game-package -->
-```json
-"com.paperfly.<имя>": "https://github.com/<организация>/PaperFly.Location.<Имя>.git?path=/Assets/Location"
+```
+https://github.com/<организация>/PaperFly.Location.<Имя>.git?path=/Assets/Location
 ```
 <!-- /paperfly:game-package -->
 
-Строку и заголовок этого файла Render Kit заполняет сам при открытии проекта в Unity.
+Адрес и заголовок этого файла Render Kit заполняет сам при открытии проекта в Unity.
 
 ## Что где лежит
 
